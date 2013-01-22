@@ -1,0 +1,4 @@
+side-projects-speech
+====================
+
+Demo project used as example in my speech 'Django Side Projects' at ETSSI in Sevilla (January 2013)
